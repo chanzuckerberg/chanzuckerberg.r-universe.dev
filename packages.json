@@ -1,6 +1,8 @@
 [
     {
         "package": "cellxgene.census",
-        "url": "https://github.com/chanzuckerberg/cellxgene-census"
+        "url": "https://github.com/chanzuckerberg/cellxgene-census",
+        "branch" : "r-universe",
+        "subdir":"api/r"
     }
 ]
