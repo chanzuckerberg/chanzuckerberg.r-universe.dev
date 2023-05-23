@@ -4,5 +4,12 @@
         "url": "https://github.com/chanzuckerberg/cellxgene-census",
         "branch" : "r-universe",
         "subdir":"api/r/cellxgene.census"
+    },
+    {
+        "package": "tiledbsoma",
+        "maintainer": "Aaron Wolen <aaron@tiledb.com>",
+        "url": "https://github.com/single-cell-data/TileDB-SOMA",
+        "available": true,
+        "subdir": "apis/r"
     }
 ]
