@@ -2,7 +2,7 @@
     {
         "package": "cellxgene.census",
         "url": "https://github.com/chanzuckerberg/cellxgene-census",
-        "branch" : "r-universe",
+        "branch" : "*release",
         "subdir":"api/r/cellxgene.census"
     },
     {
